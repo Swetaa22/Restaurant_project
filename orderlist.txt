@@ -1,0 +1,10 @@
+1988,Mattar Panner,1
+1466,Naan,5
+2119,vada Pao,2
+1342,Garlic naan,2
+2205,Roti,5
+2205,Chilli chicken,6
+400,Gulaab Jamun,1
+2119,Garlic naan,5
+2119,Butter chicken,1
+
